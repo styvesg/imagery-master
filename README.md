@@ -4,12 +4,12 @@ gabor_fwrf_model_training
 
 Input:
 
-*-Stimuli.h5py
-*-Stimuli_metadata.pkl
-*-Voxels.h5py
-*-Voxels_metadata.pkl
+- Stimuli.h5py
+- Stimuli_metadata.pkl
+- Voxels.h5py
+- Voxels_metadata.pkl
 
 Produces a model parameter file:
 
-*-fwrf_${subject}_${timestamp}_data.pkl
+- fwrf_${subject}_${timestamp}_data.pkl
 
