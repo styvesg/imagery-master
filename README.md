@@ -14,4 +14,5 @@ Produces a model parameter file:
 
 - fwrf_${subject}_${timestamp}_data.pkl
 
-### 
+### gabor_fwrf_voxel_selection_and_tuning
+Reload the model parameters to calculate voxel masks and to estimate model tuning
