@@ -17,4 +17,6 @@ Produces a model parameter file:
 ### linear_brain_model
 Create a linear brain model from a set of structural prescriptions and perform vision and imagery-hypothetized inference from different area and explore its effects.
 
+Produces:
+
 - Figures
